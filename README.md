@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Kaveesha+Kapitiarachchi!;" />
 </h1>
-###
+
 
 <h3 align="center">Computer Science and Engineering Undergraduate<br>University of Moratuwa, Sri Lanka</h3>
 
@@ -29,6 +29,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=knimnad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=knimnad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<p align="left">Tech Stack & Tools :</p>
 
 ###
 
@@ -100,6 +104,10 @@
 
 ###
 
+<p align="left">Connect With Me :</p>
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -110,8 +118,9 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="35" alt="whatsapp logo"  />
 </div>
 
+###
 
-
+<img src="https://raw.githubusercontent.com/knimnad/knimnad/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -123,4 +132,4 @@
   </a>
 </div>
 
-###
+
