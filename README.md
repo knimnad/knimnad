@@ -1,5 +1,8 @@
-<h1 align="center">Hello World!  I'm Kaveesha Kapitiarachchi 👋</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=knimnad.knimnad" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Kaveesha+Kapitiarachchi!;" />
+</h1>
 ###
 
 <h3 align="center">Computer Science and Engineering Undergraduate<br>University of Moratuwa, Sri Lanka</h3>
@@ -107,13 +110,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="35" alt="whatsapp logo"  />
 </div>
 
-###
-<div align="center">
-<br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/knimnad/knimnad/output/github-contribution-grid-snake.svg" />
-  
-<br/>
-</div>
+
 
 
 ###
