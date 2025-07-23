@@ -110,7 +110,7 @@
 ###
 <div align="center">
 <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sanjulagathsara/sanjulagathsara/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/knimnad/knimnad/output/github-contribution-grid-snake.svg" />
   
 <br/>
 </div>
