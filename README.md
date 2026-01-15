@@ -10,9 +10,10 @@
 
 <div align="center">
   <a href="https://cdn.dribbble.com/userupload/16508033/file/original-d6a08b175d8f24aa4ebcaecddcf066ad.mp4">
-    <img height="220" src="./demo.gif.gif" alt="Demo" />
+    <img height="220" src="https://raw.githubusercontent.com/knimnad/knimnad/main/demo.gif.gif" alt="Demo" />
   </a>
 </div>
+
 
 ###
 
