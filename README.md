@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://cdn.dribbble.com/userupload/16508033/file/original-d6a08b175d8f24aa4ebcaecddcf066ad.mp4">
-    <img height="220" src="./still-e645fc461ea9ed5d89bf1aedf71855b4.webp" alt="Demo preview" />
+    <img height="220" src="./demo.gif.gif" alt="Demo" />
   </a>
 </div>
 
